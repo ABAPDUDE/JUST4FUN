@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>YCL_FLIGHT_INPUT</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>input fields Flight</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_FLIGHT_INPUT</CLSNAME>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>constructor</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_FLIGHT_INPUT</CLSNAME>
+     <CMPNAME>MV_ADD_LINE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Reference type for radio buttons</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_FLIGHT_INPUT</CLSNAME>
+     <CMPNAME>MV_CARRIER_ID</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Flight Reference Scenario: Carrier ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_FLIGHT_INPUT</CLSNAME>
+     <CMPNAME>MV_CONNECTION_ID</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Flight Reference Scenario: Connection ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_FLIGHT_INPUT</CLSNAME>
+     <CMPNAME>MV_CURCODE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Flight Reference Scenario: Currency Code</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_FLIGHT_INPUT</CLSNAME>
+     <CMPNAME>MV_DELETE_LINE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Reference type for radio buttons</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_FLIGHT_INPUT</CLSNAME>
+     <CMPNAME>MV_FLIGHT_DATE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Flight Reference Scenario: Flight Date</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_FLIGHT_INPUT</CLSNAME>
+     <CMPNAME>MV_MODIFY_LINE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Reference type for radio buttons</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_FLIGHT_INPUT</CLSNAME>
+     <CMPNAME>MV_PLANETYPE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Flight Reference Scenario: Plane Type ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_FLIGHT_INPUT</CLSNAME>
+     <CMPNAME>MV_PRICE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Flight Reference Scenario: Flight Price</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_FLIGHT_INPUT</CLSNAME>
+     <CMPNAME>MV_READ_LINE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Reference type for radio buttons</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_FLIGHT_INPUT</CLSNAME>
+     <CMPNAME>MV_SEATS_MAX</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Flight Reference Scenario: Plane Seats Max</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_FLIGHT_INPUT</CLSNAME>
+     <CMPNAME>MV_SEATS_OCC</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Flight Reference Scenario: Plane Seats Occupied</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
